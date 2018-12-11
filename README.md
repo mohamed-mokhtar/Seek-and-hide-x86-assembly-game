@@ -1,7 +1,7 @@
 *The program used is the emulator ( EMU8086 )*
 # Seek-and-hide-x86-assembly-game
 CMP201: Microprocessors (Semester) - Fall 2018 Project
-GAME DESCRIBTION
+#GAME description
 English description 
 In this two players game with maze , player one try to catch player two ,
 player two runs from player one, if player one didn't catch player two in specific time player two one would win,
